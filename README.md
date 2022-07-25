@@ -10,6 +10,7 @@ Hi, I’m a software Engineer specializing in building and deploying full-stack 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anthmari/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonymarin718.mail@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lrinkedewit/what-is-mist-3902e46f037c)
+[![Resume](https://img.shields.io/badge/Resume-E10098?style=for-the-badge&logoColor=black)](https://github.com/anthonymarinated/anthonymarinated/raw/main/assets/Anthony+Marin+Resume.pdf)
 
 ## 🛠 Languages and Tools
 
