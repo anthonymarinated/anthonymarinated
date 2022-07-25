@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Anthony! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Software+engineer+specializing+in+building+and+deploying+full+stack+applications;Developer+on+Mist,+development+tool+for+Cloudflare+Workers;Based+in+New+York;)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%101c9ef7&size=28&duration=3400&width=1000&lines=Welcome+to+my+Github!;Software+engineer+specializing+in+building+and+deploying+full+stack+applications;Developer+on+Mist,+development+tool+for+Cloudflare+Workers;Based+in+New+York;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%101c9ef7&size=25&duration=3400&width=800&lines=Welcome+to+my+Github!;Software+engineer+specializing+in+building+and+deploying+full+stack+applications;Developer+on+Mist,+development+tool+for+Cloudflare+Workers;Based+in+New+York;)](https://git.io/typing-svg)
 
 ## 🧩 About me
 Hi, I’m a software Engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. My recent work has been developing cloud integration technologies, specifically working on an App Performance Monitoring tool for unpublished Cloudflare workers. Contributor to the open source community, when I'm not walking my dog.
