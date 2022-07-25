@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Anthony! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github!;Full+stack+software+engineer;Core+member+of+Mist+APM+tool+for+developing+Cloudflare+Workers;Based+in+New+York;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github!;Full+stack+software+engineer;Based+in+New+York;)](https://git.io/typing-svg)
 
 ## 🧩 About me
 I’m a software engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. My recent work has been with cloud integration technologies, specifically working on an APM tool for developing Cloudflare workers. Contributor to the open source community, when I'm not walking my dog.
