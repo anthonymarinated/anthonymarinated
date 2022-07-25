@@ -1,10 +1,10 @@
 <h2>Hi there, I'm Anthony! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Full+stack+software+engineer;Developer+on+Mist,+development+tool+for+Cloudflare;Based+in+New+York;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Full+stack+software+engineer;Based+in+New+York;)
 
 ## 🧩 About me
 Hi, I’m a software Engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. My recent work has been developing cloud integration technologies, specifically working on an App Performance Monitoring tool for unpublished Cloudflare workers. Contributor to the open source community, when I'm not walking my dog.
-![counter](https://en6k3d9948ojyq1.m.pipedream.net)
+
 ## Where to find me 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anthonymarinated)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anthmari/)
@@ -40,3 +40,13 @@ Hi, I’m a software Engineer specializing in building and deploying full-stack 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
+<details>
+  <summary>💻 Github Profile Stats</summary>
+  <br/>
+  
+[![anthonymarinated's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonymarinated&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anthonymarinated/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymarinated&layout=compact&theme=tokyonight)](https://github.com/anthonymarinated/github-readme-stats)
+
+</details>
