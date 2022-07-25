@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Full+stack+software+engineer;Based+in+New+York;)
 
 ## 🧩 About me
-Hi, I’m a software Engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. My recent work has been developing cloud integration technologies, specifically working on an App Performance Monitoring tool for unpublished Cloudflare workers. Contributor to the open source community, when I'm not walking my dog.
+I’m a software Engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. My recent work has been with cloud integration technologies, specifically working on an APM tool for developing Cloudflare workers. Contributor to the open source community, when I'm not walking my dog.
 
 ## Where to find me 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anthonymarinated)
