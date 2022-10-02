@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github!;Full+stack+software+engineer;Based+in+New+York;)](https://git.io/typing-svg)
 
 ## 🧩 About me
-I’m a software engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. My recent work has been with cloud integration technologies, specifically working on an APM tool for developing Cloudflare Workers. 
+I’m a software engineer specializing in building and deploying full-stack JavaScript applications with React, Redux and Node. 
 <br/>
-I like to contribute to the open source community, when I'm not walking my dog.
+Currently developing cloud integration technologies.
+<br/>
 
 ## Where to find me 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/anthonymarinated)
