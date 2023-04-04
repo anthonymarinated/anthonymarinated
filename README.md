@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github!;Full+stack+software+engineer;Based+in+New+York;)](https://git.io/typing-svg)
 
-## 🧩 About me
+## About me
 Specializing in building and deploying full-stack JavaScript applications with React, Redux and Node/Express. 
 <br/>
 <br/>
